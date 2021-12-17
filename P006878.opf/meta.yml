@@ -1,7 +1,7 @@
 id: P006878
 initial_creation_type: ocr
 created_at: 27/03/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-17 12:28:13.766483
 source_metadata:
   id: bdr:W1KG24220
   title: དགའ་ལྡན་ཤར་རྩེའི་ཆོས་སྤྱོད་མཛད་རིམ་ངོ་མཚར་བསྟན་པའི་མཛེས་རྒྱན་ཉིན་བྱེད་སྣང་བའི་ཡང་གསལ།
@@ -24,3 +24,5 @@ source_metadata:
       volume_number: 3
       total_pages: 798
       base_file: v002.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
