@@ -1,33 +1,63 @@
 id: I83908F93
+legacy_id: P006878
+ocr_import_info:
+  bdrc_scan_id: W1KG24220
+  source: bdrc
+  ocr_info:
+    timestamp: '2020-03-27T07:23:19'
+    imagesfolder: images
+  batch_id: batch001
+  software_id: vision
+  expected_default_language: bo
+  op_import_options: {}
+  op_import_version: 1.0.0
+default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2020-03-27T07:28:49+00:00'
-last_modified: '2022-06-08T07:31:17.921998+00:00'
-parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+imported: '2022-08-27T07:38:52.533879+00:00'
+last_modified: 2022-08-27 15:41:21.351732
+parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
-  id: bdr:W1KG24220
-  title: དགའ་ལྡན་ཤར་རྩེའི་ཆོས་སྤྱོད་མཛད་རིམ་ངོ་མཚར་བསྟན་པའི་མཛེས་རྒྱན་ཉིན་བྱེད་སྣང་བའི་ཡང་གསལ།
-  author: ''
+  id: http://purl.bdrc.io/resource/W1KG24220
+  status: http://purl.bdrc.io/admindata/StatusReleased
   access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: true
-  base:
-    0D08:
-      image_group_id: I1KG24300
-      title: ''
-      total_pages: 0
-      order: 1
-      base_file: 0D08.txt
-    83A6:
-      image_group_id: I1KG24301
-      title: ''
+  geo_restriction:
+  - CN
+  reproduction_of: http://purl.bdrc.io/resource/MW1KG24220
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: དགའ་ལྡན་ཤར་རྩེའི་ཆོས་སྤྱོད་མཛད་རིམ་ངོ་མཚར་བསྟན་པའི་མཛེས་རྒྱན་ཉིན་བྱེད་སྣང་བའི་ཡང་གསལ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9322368115390864
+  ocr_word_median_confidence_index: 0.9800000190734863
+quality: null
+bases:
+  I1KG24301:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG24301
       total_pages: 904
-      order: 2
-      base_file: 83A6.txt
-statistics: {}
-quality: {}
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I1KG24301.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9800000190734863
+      ocr_word_mean_confidence_index: 0.9305900836699681
+    legacy_id: v002
+  I1KG24302:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1KG24302
+      total_pages: 798
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I1KG24302.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9800000190734863
+      ocr_word_mean_confidence_index: 0.9341631405322849
+    legacy_id: v003
 copyright:
-  status: Unknown
-  notice: ''
-  info_url: null
-license: null
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
