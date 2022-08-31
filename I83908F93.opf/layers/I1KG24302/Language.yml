@@ -1,143 +1,143 @@
-id: e8809894d925429aaf625e0148fe7ab1
+id: fd4078e225ac498eb3ad37c58face16c
 annotation_type: Language
 revision: '00001'
 annotations:
-  04123e7d90884aa0ad5e03bec4092ef4:
+  bd028ae6128b407fafb2f22966acd44e:
     span:
       start: 39
       end: 172
     language: en
-  4dc9d174f9bc4ed689816b8141c98f9c:
+  c1cd988dc0974725a41c66a10ad241b6:
     span:
       start: 330
       end: 896
     language: en
-  391a8bd73e8c4d189fb45e17ff4cb760:
+  a3c740d0406b4c72ac1a13f05d320c94:
     span:
       start: 1116
       end: 1136
     language: en
-  a89cd57e70ff47218f4b7cdc90d43119:
+  671c8d23456a4f3098229e5431ec55e7:
     span:
       start: 1171
       end: 1253
     language: en
-  ee30d13bec3945159c9a716d8e62998f:
+  ac1d0f8b78bd41ffa9118ca6bf2c4f01:
     span:
       start: 1429
       end: 1449
     language: en
-  01f72fd15aad42b08789b4995da4ca4e:
+  b2a08b1b03f84527be0a2b0c4ab6d0f1:
     span:
       start: 2985
       end: 3053
     language: en
-  411220da91a7445f88ec5f6c47a4ee53:
+  6b54b99e5ccb45e284434090f2f7af9d:
     span:
       start: 3477
       end: 3571
     language: en
-  b4fcc63e7a394b02b65f4f80ef5f5909:
+  a00343e43e734653b738eccb96dc34d9:
     span:
       start: 3746
       end: 3828
     language: en
-  baaab8ea601f4b6eaf3a38f3ca4034e2:
+  97d3e1eb31264debb7bcad165852d962:
     span:
       start: 5665
       end: 5767
     language: en
-  bfdf081c34904f4d8387bf3093baec3d:
+  8cbaecb9ee8f4c71a208e75578f0c84e:
     span:
       start: 7530
       end: 7632
     language: en
-  af93a207f61f452eaebc51e742c4c8e9:
+  981ef9d61b1a405cbff41a8211f474bd:
     span:
       start: 61875
       end: 61901
     language: en
-  d3ac7eab1fd9482ba8c3d58f561e7450:
+  06ab4d60ff4b40cb8e7ebc30b5076846:
     span:
       start: 71771
       end: 71848
     language: en
-  36dee1bfec21425296b1739c26582eb3:
+  0af3767f33854eeca433b463c41732e7:
     span:
       start: 390569
       end: 390647
     language: en
-  7fb0ed3bf51840c4a6f6e0387e06e316:
+  c70bdc0671a74f9ba2f358da4e9318ae:
     span:
       start: 465742
       end: 465826
     language: en
-  c139e2c9bb2e4f0f97d201c0747bc189:
+  4f0be853e2494171b72b0c41dfb51836:
     span:
       start: 467322
       end: 467360
     language: en
-  708d909d2b8d47478064e368abe48386:
+  a7daf313fd16407886693cd07ce20734:
     span:
       start: 516401
       end: 516422
     language: en
-  71abb7b9f71542178ff87319487d3e71:
+  a957aaf5c26b4fd294724c48f8df8500:
     span:
       start: 534046
       end: 534084
     language: en
-  dcc1a749c0d64220953bb1c72ac852e1:
+  779a0046a37c43d1b6d979180ba140fd:
     span:
       start: 743894
       end: 743968
     language: en
-  586204d40ccb4f5ca86ad24f27394196:
+  e4ade3835d254cd4af29c136ced498e9:
     span:
       start: 813966
       end: 814042
     language: en
-  fb1661284b24460b8fdfcfa8010edc70:
+  cc6da6548efd4fbaa6758faa50d58533:
     span:
       start: 981332
       end: 981371
     language: en
-  0632c2454b1a49ecbc81b5d8673685fe:
+  7569fe3ed7574946afb0c33a7c811a0b:
     span:
       start: 983700
       end: 983721
     language: en
-  38598a4e3ba5475c80a209239135feaa:
+  e12aef72520a4578b9064973ff316f74:
     span:
       start: 983806
       end: 983856
     language: en
-  59a76caed671401ab4a6b8dd69d24f73:
+  eab7edf167274b6fad0f345b0ef7a751:
     span:
       start: 983981
       end: 984131
     language: en
-  a7b99ff3450f4b8387e51971245e5084:
+  69421b7c0c5b4a4d93dbadf00e03dd80:
     span:
       start: 984691
       end: 984754
     language: en
-  7da6ac6795714c8d8f96226017e2fe9e:
+  a684cf6ee6d340abb5e3de472a29f161:
     span:
       start: 994844
       end: 994960
     language: en
-  ca7aef72bcbf47c78c58195295482b11:
+  61dc34173d304a1e9402d32fa9e3b7b7:
     span:
       start: 999224
       end: 1002208
     language: en
-  89331d56789e4fbbbf1f5f7f147bcf7b:
+  43f511154a4849bc9433982b30f22ce6:
     span:
       start: 1002255
       end: 1002617
     language: en
-  b8414515e8b043c29c42fa5ef46c5483:
+  08b227cde85b4e58810af97a007e8dae:
     span:
       start: 1002642
       end: 1002807
